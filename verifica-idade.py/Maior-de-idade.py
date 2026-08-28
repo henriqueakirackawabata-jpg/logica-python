@@ -10,4 +10,4 @@ match idade:
      case idade if idade >= 18:
         print("Adulto")
      case _:
-        print("Idadde não pode ser negativa")
+        print("Idade não pode ser negativa")
